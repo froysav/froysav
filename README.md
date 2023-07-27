@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vlad</h1>
 <h3 align="center">A passionate Full stack developer from Uzbekistan</h3>
-<img align="right" alt="Coding" width="400" scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fcartoon-drawing-programmer_20243808.htm&psig=AOvVaw077GilaEw0lYujujV8Om8W&ust=1690532618845000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDq1fO6roADFQAAAAAdAAAAABAJ(https://www.freepik.com/premium-vector/cartoon-drawing-programmer_20243808.htm)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=froysav&label=Profile%20views&color=0e75b6&style=flat" alt="froysav" /> </p>
 
